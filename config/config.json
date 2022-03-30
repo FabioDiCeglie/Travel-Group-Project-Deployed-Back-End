@@ -1,0 +1,21 @@
+{
+  "development": {
+    "url": "postgres://gjacoffe:cYhzfwzdL2HzSl5ipEH90I0Yi0-hpOta@balarama.db.elephantsql.com/gjacoffe"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": "0"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": "0"
+  }
+}
