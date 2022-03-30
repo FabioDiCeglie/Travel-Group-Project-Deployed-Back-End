@@ -10,6 +10,7 @@ const { PORT } = require("./config/constants");
 
 // Create an express app
 const app = express();
+
 app.use(cors());
 
 // express.json():be able to read request bodies of JSON requests a.k.a. body-parser
