@@ -1,6 +1,9 @@
 <h1>Where should I go? It is a travel game that decide your next destination!</h1>
 <br />
-<p>This is a group project made by 3 junior developers and in only 5 days of Codaisseur Bootcamp we create a travel game app!</p>
+<p>Together with two other developers, we created a travel game app that randomly decides your next travel destination.
+
+Login: Email: a@a.com. Pass:a
+</p>
 
 <h1>Database Tables:</h1>
 
