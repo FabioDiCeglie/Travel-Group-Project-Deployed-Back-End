@@ -2,7 +2,7 @@
 <br />
 <p>Together with two other developers, we created a travel game app that randomly decides your next travel destination.
 
-Login: Email: a@a.com. Pass:a
+Login: Email: a@a.com. Pass: a
 </p>
 
 <h1>Database Tables:</h1>
