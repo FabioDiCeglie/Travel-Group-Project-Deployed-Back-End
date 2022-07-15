@@ -40,5 +40,5 @@ Database: Postgres
 
 <div>
 <h1>Website:</h1>
-  https://6244242a36d83e5d53c48253--sparkling-douhua-25bfde.netlify.app/
+ https://whereshouldigo.netlify.app/
 </div>
