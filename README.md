@@ -39,7 +39,7 @@ Database: Postgres
 
 <div>
 <h1>Website:</h1>
-  https://superb-cheesecake-edf39a.netlify.app/
+ https://whereshouldigo.netlify.app/
 </div>
 
 
