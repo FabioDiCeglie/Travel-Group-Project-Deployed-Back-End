@@ -1,9 +1,6 @@
 <h1>Where should I go? It is a travel game that decide your next destination!</h1>
 <br />
-<p>Together with two other developers, we created a travel game app that randomly decides your next travel destination.
-
-Login: Email: a@a.com. Pass: a
-</p>
+<p>This is a group project made by 3 junior developers and in only 5 days of Codaisseur Bootcamp we create a travel game app!</p>
 
 <h1>Database Tables:</h1>
 
@@ -17,7 +14,7 @@ Languages: Javascript
 <br />
 Frontend Libraries: React - Redux - Axios
 <br />
-Backend: Node & Express & Sequelize
+Backend: Node - Express - Sequelize
 <br />
 Database: Postgres
 
@@ -40,5 +37,12 @@ Database: Postgres
 
 <div>
 <h1>Website:</h1>
- https://whereshouldigo.netlify.app/
+  https://superb-cheesecake-edf39a.netlify.app/
+</div>
+
+
+<div>
+<h1>Login for play the game:</h1>
+<p> As a user: email: a@a.com pass: a.</p>
+<br />
 </div>
